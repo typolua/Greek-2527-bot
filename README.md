@@ -1,4 +1,4 @@
-# Greek#2527-bot
+# Greek#2527-Discord bot
 Να το κάνω leak αφού σκαμάρει?
 
 
